@@ -1,5 +1,6 @@
 
-#a makeup brand introduction website that fits both labtops and mobile devices
-#designed in 2014
+## makeup brand introduction website that fits both labtops and mobile devices
 
-##link: http://web.uvic.ca/~yuyaxi/
+### designed in 2014
+
+### link: http://web.uvic.ca/~yuyaxi/
