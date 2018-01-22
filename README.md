@@ -1,7 +1,7 @@
 
 ### A makeup brand introduction website 
 ----
-#### *fits both labtops and mobile devices
+#### *fits both laptops and mobile devices
 ---
 #### designed in 2014
 :cupid::kiss::cupid:  
