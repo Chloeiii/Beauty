@@ -3,7 +3,7 @@
 ----
 #### *fits both laptops and mobile devices
 ---
-#### designed in 2014
+#### made in 2014
 :cupid::kiss::cupid:  
 :lipstick::lipstick::lipstick::lipstick:
 
